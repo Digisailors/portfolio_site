@@ -919,7 +919,7 @@ li {
 
 .main-header .main-menu .navigation>li.dropdown>a:before {
     font-family: 'FontAwesome';
-    content: "\f107";
+content: "\25BC";
     position: absolute;
     right: 0px;
     font-size: 14px;
@@ -990,7 +990,7 @@ li {
 
 .main-header .main-menu .navigation>li>ul>li.dropdown>a:after {
     font-family: 'FontAwesome';
-    content: "\f061";
+content: "\25B6";
     position: absolute;
     right: 10px;
     top: 10px;
@@ -2418,12 +2418,12 @@ li {
 }
 
 .main-slider .tparrows.tp-leftarrow.preview3::after {
-    content: '\f104';
+content: "\25C0";
     font-family: 'FontAwesome';
 }
 
 .main-slider .tparrows.tp-rightarrow.preview3::after {
-    content: '\f105';
+content: "\25B6";
     font-family: 'FontAwesome';
 }
 
@@ -3273,7 +3273,7 @@ li {
 }
 
 .latest-events-section .post-style-one h3 {
-    font-size: 26px;
+    font-size: 18px;
     color: #000000;
     line-height: 32px;
     margin-bottom: 20px;
