@@ -1602,8 +1602,7 @@
 }
 
 .fa-long-arrow-up:before {
-    content: "\f176";
-}
+content: "\25B2";}
 
 .fa-long-arrow-left:before {
     content: "\f177";
